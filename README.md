@@ -120,7 +120,6 @@ Open each page in Chrome DevTools (Ctrl+Shift+I → Toggle device toolbar) and c
 Paste those screenshots into this README under **Screenshot evidence** below, or drop them in an `evidence/` folder and link them.
 
 ### Screenshot evidence
-*(Add your own screenshots here after testing.)*
 
 - Desktop homepage:
 - Tablet products page:
